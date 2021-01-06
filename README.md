@@ -1,4 +1,4 @@
-### Jacob Sammon 👋
+### Hi, I'm Jacob 👋
 
 - 🔭 I’m currently working on a Wordpress Theme
 - 🌱 I’m currently learning Javascript, and furthering my PHP
