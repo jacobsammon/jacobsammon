@@ -1,4 +1,3 @@
-### Hi, I'm Jacob 👋
-
-- Everything you're looking for is over on my website - [jacob-sa.net](https://jacob-sa.net).
-- All of my software/scripts can be found at [jacob-sa.net/software/](https://jacob-sa.net/software/) with documentation, screenshots, etc
+### Hi there, I'm Jacob 👋
+- My website over at [jacobsammon.com](https://www.jacobsammon.com)
+- You can see [Lookup Ninja](https://www.lookup.ninja), which I developed
